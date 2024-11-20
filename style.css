@@ -7,7 +7,7 @@ body {
 }
 
 .painter-icon {
-    position: fixed;
+    position: absolute;
     bottom: 20px;
     left: 20px;
     width: 50px;
